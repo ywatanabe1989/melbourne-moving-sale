@@ -1,0 +1,845 @@
+metadata:
+  title: 家具・家電の譲渡
+  subtitle: 3月末帰国のため（Maidstone）
+  contact:
+    email: ywata1989@gmail.com
+    phone: +61 0461 522 907
+  location: Maidstone
+  deadline: '2026-03-31'
+items:
+- id: '001'
+  category: 変圧/電源
+  name: 50Hz ダウンステップ（1000W）
+  condition: 通常使用
+  purchase_date: '2024-04-24'
+  qty: 1
+  price_schedule:
+  - date: 01-Jan
+    price: 60
+  - date: 01-Feb
+    price: 45
+  - date: 01-Mar
+    price: 30
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07KQZXWKY
+  description: 日本の50Hz電化製品をオーストラリアで使用するためのダウンステップ変圧器（1000W対応）。
+  issue_number: null
+  notes: ''
+- id: '002'
+  category: 家電
+  name: コーヒーメーカー ×2（Panasonic NC-A57-K）
+  condition: 1台水回り不具合あり・付属品2台分
+  purchase_date: 2024-04-30, 2024-04-06
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.co.jp/-/en/gp/your-account/order-history
+  buy_url: https://www.amazon.co.jp/-/en/dp/B07DTDHP7Q
+  description: Panasonic全自動コーヒーメーカー。1台は正常動作、1台は水回りに不具合あり。付属品は2台分すべて揃っています。
+  issue_number: null
+  notes: '正常: $80–130 / 故障: $20–50'
+  price_schedule:
+  - date: 01-Jan
+    price: 130
+  - date: 01-Feb
+    price: 75
+  - date: 01-Mar
+    price: 20
+- id: '003'
+  category: 家電
+  name: 浄水器（BRITA Marella XL 3.5L）
+  condition: 通常使用
+  purchase_date: '2024-04-27'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07F9Q8CZZ
+  description: BRITA浄水ポット Marella XL（3.5L容量）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 25
+  - date: 01-Feb
+    price: 17
+  - date: 01-Mar
+    price: 10
+- id: '004'
+  category: 家電
+  name: ヒートポンプ式乾燥機（Haier）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: 別サイト購入
+  buy_url: ''
+  description: Haierヒートポンプ式乾燥機。電気代効率が良く、衣類に優しい乾燥方式。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 600
+  - date: 01-Feb
+    price: 450
+  - date: 01-Mar
+    price: 300
+- id: '005'
+  category: 家具
+  name: 電動昇降デスク（ERGOMAKER 140×60cm）
+  condition: 前後にややガタつき
+  purchase_date: '2025-04-30'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0CX53QXY8
+  description: ERGOMAKER電動昇降デスク（140×60cm）。立ち作業・座り作業を切り替え可能。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 250
+  - date: 01-Feb
+    price: 200
+  - date: 01-Mar
+    price: 150
+- id: '006'
+  category: 家電
+  name: プリンター（Canon PIXMA TS5160）
+  condition: 通常使用
+  purchase_date: '2024-08-08'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B077G2WXF9
+  description: Canon PIXMAインクジェットプリンター。スキャン・コピー機能付き。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 80
+  - date: 01-Feb
+    price: 60
+  - date: 01-Mar
+    price: 40
+- id: '007'
+  category: 家電
+  name: 電子レンジ（Panasonic 20L 800W）
+  condition: 通常使用
+  purchase_date: '2024-10-18'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0DBPCNVY5
+  description: Panasonic電子レンジ（20L、800W）。シンプルで使いやすい。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 80
+  - date: 01-Feb
+    price: 60
+  - date: 01-Mar
+    price: 40
+- id: 008
+  category: 資材
+  name: アルミパイプ ×2
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: ''
+  buy_url: ''
+  description: アルミパイプ2本セット。DIYや棚作りなどに。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 30
+  - date: 01-Feb
+    price: 20
+  - date: 01-Mar
+    price: 10
+- id: 009
+  category: キッチン
+  name: 食器乾燥ラック（BRIAN & DANY）
+  condition: 通常使用
+  purchase_date: 2024年複数回
+  qty: 4
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07NBDQMVZ
+  description: BRIAN & DANY食器乾燥ラック。コンパクトで使いやすい。
+  issue_number: null
+  notes: 各$5–12（4つで$15–40）
+  price_schedule:
+  - date: 01-Jan
+    price: 12
+  - date: 01-Feb
+    price: 8
+  - date: 01-Mar
+    price: 5
+- id: '010'
+  category: キッチン
+  name: 圧縮ゴミ箱（Joseph Joseph Titan 30L）
+  condition: 通常使用
+  purchase_date: '2024-09-06'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B071D6F3XF
+  description: Joseph Joseph Titan圧縮ゴミ箱（30L）。ゴミを圧縮して容量を最大化。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 80
+  - date: 01-Feb
+    price: 60
+  - date: 01-Mar
+    price: 40
+- id: '011'
+  category: 椅子
+  name: アーロンチェア（Sサイズ）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: 別サイト購入
+  buy_url: ''
+  description: Herman Miller アーロンチェア（Sサイズ）。高品質オフィスチェアの定番。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 1200
+  - date: 01-Feb
+    price: 1000
+  - date: 01-Mar
+    price: 800
+- id: '012'
+  category: 家具
+  name: ベッド用デスク（Overbed Table）
+  condition: やや使用感
+  purchase_date: '2025-09-18'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0D3P3FZVV
+  description: ベッド用オーバーテーブル。ベッドで作業や食事をする際に便利。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 70
+  - date: 01-Feb
+    price: 55
+  - date: 01-Mar
+    price: 40
+- id: '013'
+  category: 寝具
+  name: クイーン マットレス（Zinus Cloud Cool）
+  condition: 使用中
+  purchase_date: '2024-09-22'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B097P43ZGS
+  description: Zinus Cloud Coolクイーンサイズマットレス。通気性が良く快適な睡眠。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 150
+  - date: 01-Feb
+    price: 115
+  - date: 01-Mar
+    price: 80
+- id: '014'
+  category: 寝具
+  name: クイーン 電動ベッドフレーム（FLEXISPOT）
+  condition: 使用中
+  purchase_date: '2025-09-18'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0DMFF5176
+  description: FLEXISPOT電動ベッドフレーム（クイーンサイズ）。頭部・脚部の角度調整可能。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 400
+  - date: 01-Feb
+    price: 325
+  - date: 01-Mar
+    price: 250
+- id: '015'
+  category: 寝具
+  name: クイーン 掛け布団（Dreamaker 600gsm）
+  condition: 通常使用
+  purchase_date: '2024-09-22'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07V3C653M
+  description: Dreamaker掛け布団（600gsm、クイーンサイズ）。暖かく快適。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 70
+  - date: 01-Feb
+    price: 50
+  - date: 01-Mar
+    price: 30
+- id: '016'
+  category: 寝具
+  name: 掛け布団カバー（Wake In Cloud）
+  condition: 通常使用
+  purchase_date: '2024-09-27'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07JGXMPWM
+  description: Wake In Cloud掛け布団カバー。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 30
+  - date: 01-Feb
+    price: 22
+  - date: 01-Mar
+    price: 15
+- id: '017'
+  category: 寝具
+  name: 毛布 ×2（TASTHROW）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B08K2S6BXS
+  description: TASTHROW毛布2枚セット。柔らかく暖かい。
+  issue_number: null
+  notes: 各$10–25（2つで$20–40）
+  price_schedule:
+  - date: 01-Jan
+    price: 25
+  - date: 01-Feb
+    price: 17
+  - date: 01-Mar
+    price: 10
+- id: 018
+  category: 生活
+  name: 衣類乾燥ラック（Artiss Bamboo）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0BHHRDFB6
+  description: Artiss竹製衣類乾燥ラック。折りたたみ可能。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 35
+  - date: 01-Feb
+    price: 25
+  - date: 01-Mar
+    price: 15
+- id: 019
+  category: 生活
+  name: カーテン（Smarcute 132×213cm）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07DFBCD9S
+  description: Smarcute遮光カーテン（132×213cm）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 50
+  - date: 01-Feb
+    price: 35
+  - date: 01-Mar
+    price: 20
+- id: '020'
+  category: 生活
+  name: カーテンレール（Oxdigi 63-82.7インチ）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B081TVH8LD
+  description: Oxdigi伸縮式カーテンレール（63-82.7インチ）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 25
+  - date: 01-Feb
+    price: 17
+  - date: 01-Mar
+    price: 10
+- id: '021'
+  category: 生活
+  name: 自動カーテン開閉ガジェット
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0DK18Z1FN
+  description: 自動カーテン開閉ガジェット。スマートホーム対応。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 50
+  - date: 01-Feb
+    price: 37
+  - date: 01-Mar
+    price: 25
+- id: '022'
+  category: 音響
+  name: Bose スピーカー 2セット
+  condition: 型番により変動
+  purchase_date: 2022-07-28（メルカリ）
+  qty: 2
+  status: available
+  proof_url: メルカリJP購入履歴
+  buy_url: ''
+  description: Boseスピーカー2セット。高品質サウンド。
+  issue_number: null
+  notes: 1セット$150–400（合計$300–800）
+  price_schedule:
+  - date: 01-Jan
+    price: 400
+  - date: 01-Feb
+    price: 275
+  - date: 01-Mar
+    price: 150
+- id: '023'
+  category: 家電
+  name: Dyson 温風扇風機（Hot & Cool）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: 公式/別サイト
+  buy_url: ''
+  description: Dyson Hot & Cool温風扇風機。夏は涼しく、冬は暖かく。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 300
+  - date: 01-Feb
+    price: 225
+  - date: 01-Mar
+    price: 150
+- id: '024'
+  category: 家電
+  name: Dyson 掃除機（V8 Extra）
+  condition: 通常使用
+  purchase_date: '2024-09-13'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0D7MMSRKL
+  description: Dyson V8 Extraコードレス掃除機。強力な吸引力。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 350
+  - date: 01-Feb
+    price: 300
+  - date: 01-Mar
+    price: 250
+- id: '025'
+  category: 生活
+  name: ケトル（Kambrook 1.7L）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07X7GFQ2S
+  description: Kambrook電気ケトル（1.7L）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 25
+  - date: 01-Feb
+    price: 17
+  - date: 01-Mar
+    price: 10
+- id: '026'
+  category: 生活
+  name: TOTO 小型ウォシュレット（携帯用）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B005FDJ8SM
+  description: TOTO携帯ウォシュレット。旅行にも便利。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 35
+  - date: 01-Feb
+    price: 25
+  - date: 01-Mar
+    price: 15
+- id: '027'
+  category: 家具
+  name: デスクライト（Quntis Monitor Light Bar）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0CSJSG5CB
+  description: Quntisモニターライトバー。目に優しいLED照明。
+  issue_number: null
+  notes: 各$30–60
+  price_schedule:
+  - date: 01-Jan
+    price: 60
+  - date: 01-Feb
+    price: 45
+  - date: 01-Mar
+    price: 30
+- id: 028
+  category: 生活
+  name: 衣類バスケット（Joseph Joseph 35L）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0BS19PG6M
+  description: Joseph Joseph衣類バスケット（35L）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 25
+  - date: 01-Feb
+    price: 17
+  - date: 01-Mar
+    price: 10
+- id: 029
+  category: 電源
+  name: コンセントエクステンション（Auvo 8口+4USB）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B09NPLQQ2P
+  description: Auvo電源タップ（8口+4USB）。サージプロテクター付き。
+  issue_number: null
+  notes: 各$15–35
+  price_schedule:
+  - date: 01-Jan
+    price: 35
+  - date: 01-Feb
+    price: 25
+  - date: 01-Mar
+    price: 15
+- id: '030'
+  category: 生活
+  name: UGG スリッパ
+  condition: 使用中
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B07BN5XKQR
+  description: UGGスリッパ。暖かく快適。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 70
+  - date: 01-Feb
+    price: 50
+  - date: 01-Mar
+    price: 30
+- id: '031'
+  category: PC周辺
+  name: デスクマット（100×40cm）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0919KR6HC
+  description: デスクマット（100×40cm）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 25
+  - date: 01-Feb
+    price: 17
+  - date: 01-Mar
+    price: 10
+- id: '032'
+  category: 生活
+  name: ウェットティッシュケース（OXO）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0771FFJ1J
+  description: OXOウェットティッシュディスペンサー。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 20
+  - date: 01-Feb
+    price: 14
+  - date: 01-Mar
+    price: 8
+- id: '033'
+  category: 生活
+  name: S字フック 8個セット
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B09VFD6Z13
+  description: S字フック8個セット。収納に便利。
+  issue_number: null
+  notes: 1パック$5–12
+  price_schedule:
+  - date: 01-Jan
+    price: 12
+  - date: 01-Feb
+    price: 8
+  - date: 01-Mar
+    price: 5
+- id: '034'
+  category: PC周辺
+  name: USB ファン（120mm）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/dp/B0C61YW5SX
+  description: USBファン（120mm）。静音設計。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 20
+  - date: 01-Feb
+    price: 15
+  - date: 01-Mar
+    price: 10
+- id: '035'
+  category: PC/Mac
+  name: MacBook Air M1（256GB/16GB）USキーボード
+  condition: 使用中
+  purchase_date: 2023-07-29（メルカリ）
+  qty: 1
+  status: available
+  proof_url: メルカリJP購入履歴
+  buy_url: ''
+  description: MacBook Air M1（256GB SSD、16GB RAM、USキーボード）。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 900
+  - date: 01-Feb
+    price: 750
+  - date: 01-Mar
+    price: 600
+- id: '036'
+  category: NAS
+  name: QNAP NAS（TS-453D or TS-451+）
+  condition: 使用中
+  purchase_date: 不明（Amazon JP）
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.co.jp/-/en/gp/your-account/order-history
+  buy_url: https://www.amazon.co.jp/-/en/dp/B0897C8XTT
+  description: QNAP NAS（TS-453D または TS-451+）。4ベイNASサーバー。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 400
+  - date: 01-Feb
+    price: 300
+  - date: 01-Mar
+    price: 200
+- id: '037'
+  category: HDD
+  name: WD Red Plus 10TB ×2
+  condition: 使用中
+  purchase_date: 不明（Amazon JP）
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.co.jp/-/en/gp/your-account/order-history
+  buy_url: https://www.amazon.co.jp/-/en/dp/B083NYWGLJ
+  description: WD Red Plus 10TB HDD 2台。NAS用途に最適。
+  issue_number: null
+  notes: 各$200–350（合計$400–700）
+  price_schedule:
+  - date: 01-Jan
+    price: 350
+  - date: 01-Feb
+    price: 275
+  - date: 01-Mar
+    price: 200
+- id: 038
+  category: 収納家具
+  name: Amazon Basics 5段シェルフ（76×36×164cm、キャスター付き）
+  condition: 通常使用
+  purchase_date: 不明
+  qty: 2
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=Amazon+Basics+5-Shelf+Adjustable
+  description: Amazon Basics 5段シェルフ（76×36×164cm）。キャスター付きで移動可能。
+  issue_number: null
+  notes: 各$40–80（2台で$80–160）
+  price_schedule:
+  - date: 01-Jan
+    price: 80
+  - date: 01-Feb
+    price: 60
+  - date: 01-Mar
+    price: 40
+- id: 039
+  category: Dysonアクセサリー
+  name: AM09 Replacement Remote（Dyson空気清浄機用リモコン）
+  condition: 通常使用
+  purchase_date: '2025-07-19'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=AM09+Replacement+Remote
+  description: Dyson AM09用交換リモコン。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 15
+  - date: 01-Feb
+    price: 10
+  - date: 01-Mar
+    price: 5
+- id: '040'
+  category: Dysonアクセサリー
+  name: Hygieia モップヘッドアタッチメント（V7/V8/V10/V11/V15用、8枚パッド付き）
+  condition: 通常使用
+  purchase_date: '2024-09-13'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=Hygieia+Dyson+Mop
+  description: Dyson掃除機用モップヘッドアタッチメント。8枚のパッド付き。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 30
+  - date: 01-Feb
+    price: 22
+  - date: 01-Mar
+    price: 15
+- id: '041'
+  category: Dysonアクセサリー
+  name: 交換用マイクロファイバーモップパッド 4枚セット
+  condition: 未使用/新品
+  purchase_date: '2025-01-07'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=Dyson+Microfiber+Mop+Pads
+  description: Dyson掃除機用マイクロファイバーモップパッド4枚セット。未使用新品。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 15
+  - date: 01-Feb
+    price: 11
+  - date: 01-Mar
+    price: 8
+- id: '042'
+  category: Dysonアクセサリー
+  name: Hygieia 掃除機ヘッドアタッチメント（マットレス・布団用）
+  condition: 通常使用
+  purchase_date: '2024-09-13'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=Hygieia+Dyson+Mattress
+  description: Dyson掃除機用マットレス・布団アタッチメント。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 20
+  - date: 01-Feb
+    price: 15
+  - date: 01-Mar
+    price: 10
+- id: '043'
+  category: Dysonアクセサリー
+  name: 9SHOME 掃除機スタンドラック（キャスター付き、V6/V7/V8/V10/V11/V15対応）
+  condition: 通常使用
+  purchase_date: '2024-09-13'
+  qty: 1
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=9SHOME+Dyson+Stand
+  description: Dyson掃除機用スタンドラック。キャスター付きで移動可能。
+  issue_number: null
+  notes: ''
+  price_schedule:
+  - date: 01-Jan
+    price: 40
+  - date: 01-Feb
+    price: 30
+  - date: 01-Mar
+    price: 20
+- id: '044'
+  category: 衛生用品
+  name: MEDSTOCK ニトリルグローブ（黒、医療グレード、Mサイズ、100枚入り×複数箱）
+  condition: 未使用・新品
+  purchase_date: 不明（複数回購入）
+  qty: 3
+  status: available
+  proof_url: https://www.amazon.com.au/gp/your-account/order-history
+  buy_url: https://www.amazon.com.au/s?k=MEDSTOCK+Nitrile+Gloves
+  description: MEDSTOCKニトリルグローブ（医療グレード、Mサイズ、100枚入り）。未使用新品。
+  issue_number: null
+  notes: 1箱$8–15（複数箱で交渉可）
+  price_schedule:
+  - date: 01-Jan
+    price: 15
+  - date: 01-Feb
+    price: 11
+  - date: 01-Mar
+    price: 8
