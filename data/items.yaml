@@ -17,7 +17,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: 日本の50Hz電化製品をオーストラリアで使用するためのダウンステップ変圧器（1000W対応）。
-  issue_number: 1
+  issue_number: 2
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B07KQZXWKY
   category_en: Appliances
@@ -42,7 +42,7 @@ items:
   status: available
   proof_url: https://www.amazon.co.jp/-/en/gp/your-account/order-history
   description: Panasonic全自動コーヒーメーカー。1台は正常動作、1台は水回りに不具合あり。付属品は2台分すべて揃っています。
-  issue_number: 2
+  issue_number: 3
   notes: '正常: $80–130 / 故障: $20–50'
   bought_url: https://www.amazon.co.jp/-/en/dp/B07DTDHP7Q
   category_en: Appliances
@@ -71,7 +71,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: BRITA浄水ポット Marella XL（3.5L容量）。
-  issue_number: 3
+  issue_number: 4
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B07F9Q8CZZ
   category_en: Appliances
@@ -95,7 +95,7 @@ items:
   status: available
   proof_url: 別サイト購入
   description: Haierヒートポンプ式乾燥機。電気代効率が良く、衣類に優しい乾燥方式。
-  issue_number: 4
+  issue_number: 5
   notes: ''
   bought_url: ''
   category_en: Appliances
@@ -123,7 +123,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: ERGOMAKER電動昇降デスク（140×60cm）。立ち作業・座り作業を切り替え可能。
-  issue_number: 5
+  issue_number: 6
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0CX53QXY8
   category_en: Furniture
@@ -148,7 +148,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Canon PIXMAインクジェットプリンター。スキャン・コピー機能付き。
-  issue_number: 6
+  issue_number: 7
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B077G2WXF9
   category_en: Appliances
@@ -172,7 +172,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Panasonic電子レンジ（20L、800W）。シンプルで使いやすい。
-  issue_number: 7
+  issue_number: 8
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0DBPCNVY5
   category_en: Appliances
@@ -196,7 +196,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: BRIAN & DANY食器乾燥ラック。コンパクトで使いやすい。
-  issue_number: 8
+  issue_number: 9
   notes: 各$5–12（4つで$15–40）
   bought_url: https://www.amazon.com.au/dp/B07NBDQMVZ
   category_en: Kitchen
@@ -220,7 +220,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Joseph Joseph Titan圧縮ゴミ箱（30L）。ゴミを圧縮して容量を最大化。
-  issue_number: 9
+  issue_number: 10
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B071D6F3XF
   category_en: Kitchen
@@ -249,7 +249,7 @@ items:
   status: available
   proof_url: 別サイト購入
   description: Herman Miller アーロンチェア（Sサイズ）。高品質オフィスチェアの定番。
-  issue_number: 10
+  issue_number: 11
   notes: ''
   bought_url: ''
   category_en: PC Accessories
@@ -277,7 +277,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: ベッド用オーバーテーブル。ベッドで作業や食事をする際に便利。
-  issue_number: 11
+  issue_number: 12
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0D3P3FZVV
   category_en: Furniture
@@ -301,7 +301,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Zinus Cloud Coolクイーンサイズマットレス。通気性が良く快適な睡眠。
-  issue_number: 12
+  issue_number: 13
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B097P43ZGS
   category_en: Bedding
@@ -325,7 +325,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: FLEXISPOT電動ベッドフレーム（クイーンサイズ）。頭部・脚部の角度調整可能。
-  issue_number: 13
+  issue_number: 14
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0DMFF5176
   category_en: Bedding
@@ -349,7 +349,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dreamaker掛け布団（600gsm、クイーンサイズ）。暖かく快適。
-  issue_number: 14
+  issue_number: 15
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B07V3C653M
   category_en: Bedding
@@ -373,7 +373,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Wake In Cloud掛け布団カバー。
-  issue_number: 15
+  issue_number: 16
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B07JGXMPWM
   category_en: Bedding
@@ -397,7 +397,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: TASTHROW毛布2枚セット。柔らかく暖かい。
-  issue_number: 16
+  issue_number: 17
   notes: 各$10–25（2つで$20–40）
   bought_url: https://www.amazon.com.au/dp/B08K2S6BXS
   category_en: Bedding
@@ -421,7 +421,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Artiss竹製衣類乾燥ラック。折りたたみ可能。
-  issue_number: 17
+  issue_number: 18
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0BHHRDFB6
   category_en: Household
@@ -445,7 +445,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Smarcute遮光カーテン（132×213cm）。
-  issue_number: 18
+  issue_number: 19
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B07DFBCD9S
   category_en: Household
@@ -469,7 +469,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Oxdigi伸縮式カーテンレール（63-82.7インチ）。
-  issue_number: 19
+  issue_number: 20
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B081TVH8LD
   category_en: Household
@@ -493,7 +493,7 @@ items:
   status: available
   proof_url: メルカリJP購入履歴
   description: Boseスピーカー2セット。高品質サウンド。
-  issue_number: 20
+  issue_number: 21
   notes: 1セット$150–400（合計$300–800）
   bought_url: ''
   category_en: PC Accessories
@@ -517,7 +517,7 @@ items:
   status: available
   proof_url: 公式/別サイト
   description: Dyson Hot & Cool温風扇風機。夏は涼しく、冬は暖かく。
-  issue_number: 21
+  issue_number: 22
   notes: ''
   bought_url: ''
   category_en: Appliances
@@ -541,7 +541,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dyson V8 Extraコードレス掃除機。強力な吸引力。
-  issue_number: 22
+  issue_number: 23
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0D7MMSRKL
   category_en: Appliances
@@ -565,7 +565,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dyson AM09用交換リモコン。
-  issue_number: 23
+  issue_number: 24
   notes: ''
   bought_url: https://www.amazon.com.au/s?k=AM09+Replacement+Remote
   category_en: Dyson Accessories
@@ -589,7 +589,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dyson掃除機用モップヘッドアタッチメント。8枚のパッド付き。
-  issue_number: 24
+  issue_number: 25
   notes: ''
   bought_url: https://www.amazon.com.au/s?k=Hygieia+Dyson+Mop
   category_en: Dyson Accessories
@@ -614,7 +614,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dyson掃除機用マイクロファイバーモップパッド4枚セット。未使用新品。
-  issue_number: 25
+  issue_number: 26
   notes: ''
   bought_url: https://www.amazon.com.au/s?k=Dyson+Microfiber+Mop+Pads
   category_en: Dyson Accessories
@@ -638,7 +638,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dyson掃除機用マットレス・布団アタッチメント。
-  issue_number: 26
+  issue_number: 27
   notes: ''
   bought_url: https://www.amazon.com.au/s?k=Hygieia+Dyson+Mattress
   category_en: Dyson Accessories
@@ -662,7 +662,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Dyson掃除機用スタンドラック。キャスター付きで移動可能。
-  issue_number: 27
+  issue_number: 28
   notes: ''
   bought_url: https://www.amazon.com.au/s?k=9SHOME+Dyson+Stand
   category_en: Dyson Accessories
@@ -686,7 +686,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Kambrook電気ケトル（1.7L）。
-  issue_number: 28
+  issue_number: 29
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B07X7GFQ2S
   category_en: Household
@@ -710,7 +710,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: TOTO携帯ウォシュレット。旅行にも便利。
-  issue_number: 29
+  issue_number: 30
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B005FDJ8SM
   category_en: Household
@@ -734,7 +734,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Quntisモニターライトバー。目に優しいLED照明。
-  issue_number: 30
+  issue_number: 31
   notes: 各$30–60
   bought_url: https://www.amazon.com.au/dp/B0CSJSG5CB
   category_en: Furniture
@@ -758,7 +758,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Auvo電源タップ（8口+4USB）。サージプロテクター付き。
-  issue_number: 31
+  issue_number: 32
   notes: 各$15–35
   bought_url: https://www.amazon.com.au/dp/B09NPLQQ2P
   category_en: Household
@@ -782,7 +782,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: デスクマット（100×40cm）。
-  issue_number: 32
+  issue_number: 33
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0919KR6HC
   category_en: PC Accessories
@@ -806,7 +806,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: USBファン（120mm）。静音設計。
-  issue_number: 33
+  issue_number: 34
   notes: ''
   bought_url: https://www.amazon.com.au/dp/B0C61YW5SX
   category_en: PC Accessories
@@ -830,7 +830,7 @@ items:
   status: available
   proof_url: メルカリJP購入履歴
   description: MacBook Air M1（256GB SSD、16GB RAM、USキーボード）。
-  issue_number: 34
+  issue_number: 35
   notes: ''
   bought_url: ''
   category_en: PC Accessories
@@ -854,7 +854,7 @@ items:
   status: available
   proof_url: https://www.amazon.co.jp/-/en/gp/your-account/order-history
   description: QNAP TurboNAS TS-231+（デュアルコア1.4GHz、1GBメモリ、2ベイ）。DTCP-IP対応。
-  issue_number: 35
+  issue_number: 36
   notes: ''
   bought_url: https://www.amazon.co.jp/-/en/dp/B0897C8XTT
   category_en: PC Accessories
@@ -879,7 +879,7 @@ items:
   status: available
   proof_url: https://www.amazon.co.jp/-/en/gp/your-account/order-history
   description: WD Red Plus 10TB HDD 2台。NAS用途に最適。
-  issue_number: 36
+  issue_number: 37
   notes: 各$200–350（合計$400–700）
   bought_url: https://www.amazon.co.jp/-/en/dp/B083NYWGLJ
   category_en: PC Accessories
@@ -903,7 +903,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: Amazon Basics 5段シェルフ（76×36×164cm）。キャスター付きで移動可能。
-  issue_number: 37
+  issue_number: 38
   notes: 各$40–80（2台で$80–160）
   bought_url: https://www.amazon.com.au/s?k=Amazon+Basics+5-Shelf+Adjustable
   category_en: Furniture
@@ -927,7 +927,7 @@ items:
   status: available
   proof_url: https://www.amazon.com.au/gp/your-account/order-history
   description: MEDSTOCKニトリルグローブ（医療グレード、Mサイズ、100枚入り）。未使用新品。
-  issue_number: 38
+  issue_number: 39
   notes: 1箱$8–15（複数箱で交渉可）
   bought_url: https://www.amazon.com.au/s?k=MEDSTOCK+Nitrile+Gloves
   category_en: Household
