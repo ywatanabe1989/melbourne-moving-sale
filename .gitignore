@@ -1,0 +1,34 @@
+GITIGNORED
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Data backups
+*.bak
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+temp/
+
+# Keep image directories but ignore large files
+*.psd
+*.raw
